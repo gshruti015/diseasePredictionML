@@ -1,0 +1,13 @@
+libsvm.Solver$SolutionInfo
+libsvm.Cache
+libsvm.ONE_CLASS_Q
+libsvm.SVC_Q
+libsvm.QMatrix
+libsvm.svm
+libsvm.Kernel
+libsvm.Solver
+libsvm.svm$1
+libsvm.Solver_NU
+libsvm.SVR_Q
+libsvm.svm$decision_function
+libsvm.Cache$head_t

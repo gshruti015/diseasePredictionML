@@ -1,0 +1,10 @@
+svm_toy$2
+svm_toy$1
+AppletFrame
+AppletFrame$1
+svm_toy$4
+svm_toy$point
+svm_toy$3
+svm_toy$6
+svm_toy
+svm_toy$5

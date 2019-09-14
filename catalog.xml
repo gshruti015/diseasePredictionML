@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/WebApplication6/email?WSDL" uri="src/conf/xml-resources/web-service-references/email/wsdl/localhost_8080/WebApplication6/email.wsdl"/>
+    <system systemId="http://localhost:8080/WebApplication6/email?xsd=1" uri="src/conf/xml-resources/web-service-references/email/wsdl/localhost_8080/WebApplication6/email.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/phoneSER/phone?WSDL" uri="src/conf/xml-resources/web-service-references/phone/wsdl/localhost_8080/phoneSER/phone.wsdl"/>
+    <system systemId="http://localhost:8080/phoneSER/phone?xsd=1" uri="src/conf/xml-resources/web-service-references/phone/wsdl/localhost_8080/phoneSER/phone.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/phone?WSDL" uri="src/conf/xml-resources/web-service-references/phone/wsdl/localhost_8080/phone.wsdl"/>
+    <system systemId="http://localhost:8080/phone?xsd=1" uri="src/conf/xml-resources/web-service-references/phone/wsdl/localhost_8080/phone.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/UsingDatabase/web?WSDL" uri="src/conf/xml-resources/web-service-references/web/wsdl/localhost_8080/UsingDatabase/web.wsdl"/>
+    <system systemId="http://localhost:8080/UsingDatabase/web?xsd=1" uri="src/conf/xml-resources/web-service-references/web/wsdl/localhost_8080/UsingDatabase/web.xsd_1.xsd"/>
+</catalog>
